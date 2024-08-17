@@ -1,0 +1,106 @@
+[
+    {
+        "id":1,
+        "name":"Story Book",
+        "title":"Customers who visited the evolving bookstore regularly",
+        "price":0,
+        "category":"Free",
+        "image":"https://stock.adobe.com/in/images/pile-of-hardcover-books/130072879"
+    },
+    {
+        "id":2,
+        "name":"Comedy Book",
+        "title":"Customers who visited the evolving bookstore regularly",
+        "price":20,
+        "category":"Entertainment",
+        "image":"https://stock.adobe.com/in/images/pile-of-hardcover-books/130072879"
+    },
+    {
+        "id":3,
+        "name":"Sports Book",
+        "title":"Customers who visited the evolving bookstore regularly",
+        "price":50,
+        "category":"Sports",
+        "image":"https://stock.adobe.com/in/images/pile-of-hardcover-books/130072879"
+    },
+    {
+        "id":4,
+        "name":"Music Book",
+        "title":"Customers who visited the evolving bookstore regularly",
+        "price":100,
+        "category":"Song",
+        "image":"https://stock.adobe.com/in/images/pile-of-hardcover-books/130072879"
+    },
+    {
+        "id":5,
+        "name":"Project Book",
+        "title":"Customers who visited the evolving bookstore regularly",
+        "price":200,
+        "category":"Project",
+        "image":"https://stock.adobe.com/in/images/pile-of-hardcover-books/130072879"
+    },
+    {
+        "id":6,
+        "name":"Blank Book",
+        "title":"Customers who visited the evolving bookstore regularly",
+        "price":10,
+        "category":"Free",
+        "image":"https://stock.adobe.com/in/images/pile-of-hardcover-books/130072879"
+    },
+    {
+        "id":7,
+        "name":"Thought Book",
+        "title":"Customers who visited the evolving bookstore regularly",
+        "price":250,
+        "category":"Quotes",
+        "image":"https://stock.adobe.com/in/images/pile-of-hardcover-books/130072879"
+    },
+    {
+        "id":8,
+        "name":"Exersise Book",
+        "title":"Customers who visited the evolving bookstore regularly",
+        "price":70,
+        "category":"Free",
+        "image":"https://stock.adobe.com/in/images/pile-of-hardcover-books/130072879"
+    },
+    {
+        "id":9,
+        "name":"Colouring Book",
+        "title":"Customers who visited the evolving bookstore regularly",
+        "price":60,
+        "category":"Free",
+        "image":"https://stock.adobe.com/in/images/pile-of-hardcover-books/130072879"
+    },
+    {
+        "id":10,
+        "name":"Horror Book",
+        "title":"Customers who visited the evolving bookstore regularly",
+        "price":120,
+        "category":"Story",
+        "image":"https://stock.adobe.com/in/images/pile-of-hardcover-books/130072879"
+    },
+    {
+        "id":11,
+        "name":"Diet Book",
+        "title":"Customers who visited the evolving bookstore regularly",
+        "price":140,
+        "category":"Health",
+        "image":"https://stock.adobe.com/in/images/pile-of-hardcover-books/130072879"
+    },
+    {
+        "id":12,
+        "name":"Drawing Book",
+        "title":"Customers who visited the evolving bookstore regularly",
+        "price":40,
+        "category":"Free",
+        "image":"https://stock.adobe.com/in/images/pile-of-hardcover-books/130072879"
+    },
+    {
+        "id":13,
+        "name":"Food Book",
+        "title":"Customers who visited the evolving bookstore regularly",
+        "price":150,
+        "category":"Food",
+        "image":"https://stock.adobe.com/in/images/pile-of-hardcover-books/130072879"
+    }
+]
